@@ -1,5 +1,6 @@
 # The Assurance of Spiritual Powers in Contemporary Taiwanese Folk Religion
 ![Ritual](assets/ritual.png)
+*Ritual held on Mazu's birthday in Taipei. P.C. by me*
 
 - ### Project Summary
   - #### Project Overview
