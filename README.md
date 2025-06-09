@@ -1,0 +1,1 @@
+# Assurance_of_Spiritual_Powers
