@@ -19,9 +19,13 @@
     ![lit](assets/lit.png)
 
   - ### Analytical Framework
-    We identified various mechanisms that influence Spiritual Powers on micro, meso, and macro levels, conceptualizing a precedent framework prior to field entry
+    We identified various mechanisms that influence Spiritual Powers on micro, meso, and macro levels, conceptualizing a precedent framework prior to field entry.
     ![framework](assets/framework.png)
 
   - ### Research Methods
-    We identified various mechanisms that influence Spiritual Powers on micro, meso, and macro levels, conceptualizing a precedent framework prior to field entry
+    Our research is mainly conducted with extensive Field Research based on a Grounded Theory approach, supplemented by Desktop Research methods to robustify and categorize qualitative data.
     ![methods](assets/methods.png)
+
+  - ### Implications and Results
+    The assurance and augmentation of Spiritual Powers exist at all levels: personalized ritual practices at micro levels form communal bonds and embed ambient faithfulness that interacts with other participants at a meso level, where Ciyou temple further expands its basis at a macro level through religious heterogeneity and its cosmopolitan capital, promoting communal and cultural values in a greater context.
+    ![results](assets/results.png)
