@@ -1,4 +1,5 @@
 # The Assurance of Spiritual Powers in Contemporary Taiwanese Folk Religion
+![Ritual](assets/ritual.png)
 
 - ### Project Summary
   - #### Project Overview
