@@ -1,4 +1,4 @@
-# Assurance_of_Spiritual_Powers
+# The Assurance of Spiritual Powers in Contemporary Taiwanese Folk Religion
 
 - ### Project Summary
   - #### Project Overview
@@ -7,4 +7,4 @@
   - #### Project Snapshot
     - **Research Paradigm:** Sociology of Religion
     - **Research Methods:** Content Analysis, Historical Analysis, Grounded Theory, Participant Research, Ethnographic Research
-    - **Responsibilities:** 10+ hours of on-site participant observation, document analysis, data coding, conceptualizion of the main argument
+    - **Responsibilities:** 10+ hours of on-site participant observation, document analysis, data coding, conceptualization of the main argument
