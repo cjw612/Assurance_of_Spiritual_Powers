@@ -17,3 +17,11 @@
   - ### Literature Review
     We started by clarifying the conception of Spiritual Powers and identified its key attributes, including being exchangeable, cultivatable, embodiable, and so on,  and how it comes into play in our context.
     ![lit](assets/lit.png)
+
+  - ### Analytical Framework
+    We identified various mechanisms that influence Spiritual Powers on micro, meso, and macro levels, conceptualizing a precedent framework prior to field entry
+    ![framework](assets/framework.png)
+
+  - ### Research Methods
+    We identified various mechanisms that influence Spiritual Powers on micro, meso, and macro levels, conceptualizing a precedent framework prior to field entry
+    ![methods](assets/methods.png)
