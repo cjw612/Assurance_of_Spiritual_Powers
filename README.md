@@ -1,6 +1,6 @@
 # The Assurance of Spiritual Powers in Contemporary Taiwanese Folk Religion
-![Ritual](assets/ritual.png)
-*Ritual held on Mazu's birthday in Taipei. Photo by me*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggo2rchUOsQ?si=yLveLVzX9veJqUB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*During the birthday of 媽祖 (mā zǔ, a deity in Chinese and Taiwanese Folk Religion), various rituals will be held by the temple and its community, participating in a grand celebration named 遶境 (rào jìng, a circular movement within a particular area). 軁轎跤 (nǹg-kiō-kha, going through under the Mikoshi, a sacred vehicle that transports deities) is one of the most important rituals for believers, believing that passing under the Mikoshi brings good fortune and blessing. Video by me*
 
 - ### Project Summary
   - #### Project Overview
